@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/src/Luval.AuthCodeFlowMate.Sample/app.db
+/src/Luval.AuthCodeFlowMate.Sample/app.db-shm
+/src/Luval.AuthCodeFlowMate.Sample/app.db-wal

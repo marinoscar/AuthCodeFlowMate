@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luval.AuthCodeFlowMate", "Luval.AuthCodeFlowMate\Luval.AuthCodeFlowMate.csproj", "{EE7C831B-F490-48AE-BAD0-29EF9EA06AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luval.AuthCodeFlowMate.Sample", "Luval.AuthCodeFlowMate.Sample\Luval.AuthCodeFlowMate.Sample.csproj", "{85698966-B311-44C9-951D-E80D1D6616BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7C831B-F490-48AE-BAD0-29EF9EA06AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7C831B-F490-48AE-BAD0-29EF9EA06AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7C831B-F490-48AE-BAD0-29EF9EA06AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7C831B-F490-48AE-BAD0-29EF9EA06AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85698966-B311-44C9-951D-E80D1D6616BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85698966-B311-44C9-951D-E80D1D6616BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85698966-B311-44C9-951D-E80D1D6616BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85698966-B311-44C9-951D-E80D1D6616BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
